@@ -111,6 +111,7 @@ Here is the results of extracted 'table' and 'objects', respectively:
 ![img_table]
 ![img_object]
 
+
 #### 2. Complete Exercise 2 steps: Pipeline including clustering for segmentation implemented.  
 
 Use Euclidean Clustering to seperate different segmenetations.
@@ -232,6 +233,5 @@ For `test3.world` and `pick_list_3.yaml`, the result is:
 ![img_test3]
 
 The `object_recognition.py` is able to achieve 100%(3/3) of objects from `pick_list_1.yaml` for `test1.world`, 100%(5/5) of items from `pick_list_2.yaml` for `test2.world` and 100%(8/8) of items from `pick_list_3.yaml` in `test3.world`.
-
 
 I didn't finish the extra challenges. I will definitely come back to finish the Pick and Place operation challenges.
