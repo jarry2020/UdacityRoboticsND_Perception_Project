@@ -2,7 +2,6 @@
 ### Zhanrui Liao
 
 ---
-
 [//]: # (Image References)
 [img_input]: ./images/img_input.png
 [img_table]: ./images/img_table.png
