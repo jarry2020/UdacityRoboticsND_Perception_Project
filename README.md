@@ -218,6 +218,7 @@ In another terminal winodw, run:
 rosrun pr2_robot object_recognition.py
 ```
 
+
 #### For all three tabletop setups (`test*.world`), perform object recognition, then read in respective pick list (`pick_list_*.yaml`). Next construct the messages that would comprise a valid `PickPlace` request output them to `.yaml` format.
 
 To change the different objects settings, change the `test*.world` and `pick_list_*.yaml` in line 13 and 39 of `./launch/pick_place_project.launch` to 1, 2 and 3, respectively.
