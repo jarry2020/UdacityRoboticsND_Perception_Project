@@ -110,7 +110,6 @@ Here is the results of extracted 'table' and 'objects', respectively:
 ![img_table]
 ![img_object]
 
-
 #### 2. Complete Exercise 2 steps: Pipeline including clustering for segmentation implemented.  
 
 Use Euclidean Clustering to seperate different segmenetations.
