@@ -32,6 +32,7 @@ Here is a image of Gazebo workspace:
 
 The goal is to create 'object' and 'table' point cloud separately.
 
+
 1. Load the ROS msg Point Cloud data `pc2.PointCloud2` as `pcl_msg` into the `pcl_callback` function and convert it to PCL data. The input point cloud data with noise from RViz is shown below:
  ![img_input]
 ```python
