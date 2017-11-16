@@ -13,7 +13,6 @@ from sensor_stick.marker_tools import *
 from sensor_stick.msg import DetectedObjectsArray
 from sensor_stick.msg import DetectedObject
 from sensor_stick.pcl_helper import *
-
 import rospy
 import tf
 from geometry_msgs.msg import Pose
@@ -24,7 +23,6 @@ from pr2_robot.srv import *
 from rospy_message_converter import message_converter
 import yaml
 import pcl
-
 
 # Helper function to get surface normals
 def get_normals(cloud):
